@@ -1,0 +1,17 @@
+huwisagch - (variable) ba ogogdliin torol - (data type)
+data type n. number, string, array(list), boolean geh met torluudtei ch iim tiim utgatai gej zarlah shaardlaga baidaggui
+python bol dynamic ogogdliin toroltei hel ym ene n javascript(c-gin torliin script programming hel) geh met heltei adilhan hel ym.
+jishee n c hel deer number torliig int a = 5 gedeg bol python hel deer shuud a = 5 geh met.
+huwisagch ni useg ba ugeer ilerhiildeg ba togoor ehelej boldoggui mon undsen nershileer ilerhiilj boldoggui.
+mon usgiiin tom jijig n yalgatai baidliig iltgedeg: num = 5, num = 10 n ijil utga bogood num n 10 gsen utgaa l awna.
+harin Num = 10, num = 5 n oor ba tus tusdaa utgaa awna.
+work:
+a = 5
+num = 10
+str = "hello"
+_var = "hjigu"
+not work:
+1a = 4
+1str = "world"
+def = 4
+def n function zarladag nershil ym.
